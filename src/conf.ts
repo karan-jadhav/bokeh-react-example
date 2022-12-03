@@ -1,1 +1,1 @@
-export const FA_HOST = "localhost:8000";
+export const FA_HOST = "https://karan-jadhav-literate-space-waddle-9qq4577xgggcpx76-8000.preview.app.github.dev";
